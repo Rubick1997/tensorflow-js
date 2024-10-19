@@ -18,3 +18,8 @@ Welcome to the TensorFlow.js Starter Projects repository! This collection featur
 
 **Description**: This project focuses on building and training a custom model from scratch using TensorFlow.js. Users can define their model architecture and train it using their dataset, gaining insight into the model-building process and the various training techniques available.
 
+
+**How to play**
+1. cd to the project you want
+2. run ```npm install
+3. run ```npm run dev 
